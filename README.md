@@ -7,10 +7,10 @@
 * Capable of developing dynamic, responsive interfaces using JavaScript, HTML, and CSS, ensuring seamless front-end to back-end communication. Experienced in CRM customization, workflow automation, and building microservices for high-performance applications. Committed to clean code practices, version control (Git), and agile methodologies for efficient software delivery.
 
 ### Skills & Expertise:
- - 🌟Programming Languages : Python, JavaScript, C, C++, APEX, SQL
- - 🌟Web Development : HTML, CSS, Django, Flask, Django Rest Framework, FastAPI, MySQL, PostgreSQL, Tailwind
- - 🌟Tools : VS Code, Git, GitHub, PyCharm, Postman, BitBucket, Jira, Trello
- - 🌟Others : REST API, Data Structure & Algorithms, OOPs, DBMS, OS, Splunk, Salesforce, Mulesoft
+ - 🌟**Programming Languages** : Python, JavaScript, C, C++, APEX, SQL
+ - 🌟**Web Development** : HTML, CSS, Django, Flask, Django Rest Framework, FastAPI, MySQL, PostgreSQL, Tailwind
+ - 🌟**Tools** : VS Code, Git, GitHub, PyCharm, Postman, BitBucket, Jira, Trello
+ - 🌟**Others** : REST API, Data Structure & Algorithms, OOPs, DBMS, OS, Splunk, Salesforce, Mulesoft
 
 ### Certifications
  - 🎓5 Star in Python on HackerRank
